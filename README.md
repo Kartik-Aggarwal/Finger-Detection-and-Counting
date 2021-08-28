@@ -38,3 +38,13 @@ This repository contains two .ipynb files
 * Also, limiting length constrain is applied up to which the contours will be detected
 
 * The number of fingers is displayed in the corner of the ROI 
+
+### Following Image shows images from all the intedmidiate steps discussed. (starting from top left -> move towards right)
+
+![Intermidiate Steps](https://github.com/Kartik-Aggarwal/Finger-Detection-and-Counting/blob/main/readme_photos/Stack.PNG)
+
+### A TrackBar is used to change the parameters simultaneously.
+
+![TrackBar](https://github.com/Kartik-Aggarwal/Finger-Detection-and-Counting/blob/main/readme_photos/TrackBars.PNG)
+
+## Results
