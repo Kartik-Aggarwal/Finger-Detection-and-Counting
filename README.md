@@ -43,8 +43,10 @@ This repository contains two .ipynb files
 
 ![Intermidiate Steps](https://github.com/Kartik-Aggarwal/Finger-Detection-and-Counting/blob/main/readme_photos/Stack.PNG)
 
-### A TrackBar is used to change the parameters simultaneously.
+#### A TrackBar is used to change the parameters simultaneously.
 
 ![TrackBar](https://github.com/Kartik-Aggarwal/Finger-Detection-and-Counting/blob/main/readme_photos/TrackBars.PNG)
 
 ## Results
+
+![TrackBar](https://github.com/Kartik-Aggarwal/Finger-Detection-and-Counting/blob/main/readme_photos/Project-1.gif)
